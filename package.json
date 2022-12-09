@@ -12,5 +12,9 @@
     "openai": "^3.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@codesandbox/sandpack-react": "^1.17.2",
+    "vivid-studio": "^0.12.0"
   }
 }
